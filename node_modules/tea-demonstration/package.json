@@ -1,0 +1,23 @@
+{
+  "name": "tea-demonstration",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davishuffin/tea-demonstration.git"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davishuffin/tea-demonstration/issues"
+  },
+  "homepage": "https://github.com/davishuffin/tea-demonstration#readme"
+}

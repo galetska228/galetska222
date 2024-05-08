@@ -11,7 +11,8 @@
     "url": "https://github.com/galetska228/galetska222.git"
   },
   "dependencies": {
-    "leleka123456": "1.0.1"
+    "leleka123456": "1.0.1",
+    "paket228": "1.0.3"
   },
   "author": "",
   "license": "ISC",
